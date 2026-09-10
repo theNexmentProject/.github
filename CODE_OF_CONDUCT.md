@@ -269,4 +269,4 @@ The Nexment Project welcomes people who want to learn, build, contribute, and he
 ---
 
 **The Nexment Project**  
-Built for developers with love ❤️ from India.
+Built for developers with love ❤️ from India 🇮🇳.
