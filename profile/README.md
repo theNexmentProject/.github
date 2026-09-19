@@ -5,81 +5,56 @@
 <h1 align="center">The Nexment Project</h1>
 
 <p align="center">
-  <strong>Building simple, open-source tools for developers, creators, and builders.</strong>
+  <strong>Building simple, open-source tools for developers and builders.</strong>
 </p>
 
 <p align="center">
-  The Nexment Project is an independent open-source initiative focused on building
+  The Nexment Project is an independent open-source project focused on building
   practical, reliable, and developer-first software.
 </p>
 
 <br>
 
 <p align="center">
-  <img src="./banner.png" alt="The Nexment Project Banner" width="90%">
+  <img src="./banner.png" alt="The Nexment Project Banner" width="80%">
 </p>
 
-<br>
-
-## The Philosophy
-
-Nexment is built around a few principles that guide how we design, build, and maintain our projects.
-
-### Privacy
-
-Software should respect the people who use it. We aim to minimize unnecessary data collection and avoid building products that depend on invasive tracking or surveillance.
-
-### Local
-
-Whenever practical, data and processing should remain under the user's control. Local-first and self-hostable approaches are preferred when they provide a better experience without unnecessary dependence on external services.
-
-### Secure
-
-Security is not an afterthought. Projects should follow sensible security practices, keep dependencies under control, and make security-related decisions transparent wherever possible.
-
-### Fast
-
-Software should feel responsive and efficient. Nexment projects aim to avoid unnecessary complexity, excessive resource usage, and features that add more overhead than value.
-
-### Open Source
-
-Source code should be available for people to inspect, learn from, improve, and build upon. We believe open development creates better opportunities for collaboration and long-term sustainability.
+An AI genrated image, don't care about it too much.
 
 <br>
+
+## Philosophy
+
+Nexment is built around a few given principles and of course we follow it.
+
+Softwares are fast, secure, don't mess with your privacy (not a spyware btw), local-first design and
+
+yeah it's free and open source.
+
+You can play with code, build your own software with it. Whatever
+
+<br>
+
 
 ## What We Build
 
+Softwares !
+
 The Nexment Project focuses on practical software rather than building technology simply for the sake of technology.
 
-Our projects may include:
+Our projects may include anything, its random and it depends on idea.
 
-- Developer tools and command-line utilities
-- Local-first and self-hostable software
-- Libraries and reusable components
-- Productivity tools
-- Infrastructure and development utilities
-- Experimental projects and new ideas
-- Tools that improve existing developer workflows
-
-Every project does not need to become a large platform. A small tool that solves one problem properly is valuable on its own.
+It might be a devloper tool or a library or a general used tool. You got it.
 
 <br>
 
 ## Our Approach
 
-We prefer simple solutions over unnecessary complexity.
+We prefer simplicity over complexity. Everyone prefer that.
 
-Nexment projects are designed with a focus on:
+Project are minimal, clean and user friendly.
 
-- Clear and maintainable code
-- Useful documentation
-- Predictable behavior
-- Minimal dependencies where practical
-- Strong privacy defaults
-- Secure-by-design development
-- Good developer experience
-- Long-term maintainability
-- Transparent development
+Codes are clean, formatted and linted.
 
 We are not trying to build everything.
 
@@ -91,9 +66,11 @@ We are trying to build things that are worth using.
 
 Nexment is an open-source project, and contributions are welcome.
 
-Once a repository reaches a stable stage, contributions are allowed and encouraged. Contributions can include code, documentation, bug fixes, testing, improvements, issue reports, ideas, and other meaningful work.
+Just read the `CONTRIBUTING.md` file.
 
-Before contributing to any repository:
+You can contribute with code, big fixes, testing, improving docs.
+
+Here are some formal steps to follow before contributing according to AI :
 
 1. Read the repository's `CONTRIBUTING.md`.
 2. Check the project's README and documentation.
@@ -101,7 +78,9 @@ Before contributing to any repository:
 4. Follow the repository's development and contribution guidelines.
 5. Keep changes focused and explain the reasoning behind significant changes.
 
-Every repository may have its own rules depending on its technology, maturity, and purpose. The repository's `CONTRIBUTING.md` should always be treated as the primary contribution guide.
+Every repo may have its own rules depending on project.
+
+Contribution in some project may be closed. But it will definitely be opened if it become stable.
 
 We want Nexment to remain open while also keeping its projects maintainable and reliable.
 
@@ -138,5 +117,5 @@ Projects may start small, change direction, or eventually become something much 
 <br>
 
 <p align="center">
-  <strong>Built for developers with ❤️ from India 🇮🇳.</strong>
+  <strong>Built for developers with ❤️ </strong>
 </p>
