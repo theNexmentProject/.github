@@ -198,16 +198,6 @@ If you need help, use the appropriate discussion or contact:
 
 Good open-source projects are built by people who are willing to learn, share knowledge, and help each other.
 
-## The Nexment Project
-
-The `.github` repository is small by design.
-
-Its job is to provide the shared foundation that helps the rest of the organization stay consistent as Nexment grows.
-
-The actual work happens in the individual Nexment repositories.
-
-This repository simply helps make that work easier to discover, contribute to, and maintain.
-
 ---
 
 **The Nexment Project**
