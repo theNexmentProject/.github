@@ -3,10 +3,14 @@
 <img src="twitter-banner.png" alt="The Nexment Project" width="90%">
 
 <br>
-
-<img src="dark-logo.png" alt="Nexment" width="180">
+<br>
 
 # The Nexment Project
+
+<br>
+<br>
+
+<img src="dark-logo.png" alt="Nexment" width="180">
 
 **Free & open-source software, tools, and resources for developers.**
 
